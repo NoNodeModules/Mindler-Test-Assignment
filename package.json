@@ -1,0 +1,15 @@
+{
+  "name": "mindler",
+  "version": "0.0.1",
+  "description": "automation test for Mindler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandr Tilinschi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.1.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
